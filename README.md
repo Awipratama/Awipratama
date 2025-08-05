@@ -5,6 +5,12 @@ Graduated from SMKN 1 Denpasar with a major in Software Engineering, I’m now e
 Driven by curiosity and creativity, I’m always eager to explore new technologies and build meaningful digital products.
 </h5>
 
+- 💻 Front-End Developer with real-world experience
+
+- 🏆 Winner of Web Design and IT Quiz competitions
+
+- 🚀 Always exploring new tech and improving my skills
+
 - 🔭 I’m currently working on [Portfolio](https://github.com/Awipratama/Portfolio)
 
 - 🌱 I’m currently learning **Laravel, React, Wordpress, and Tailwind**
