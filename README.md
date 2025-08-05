@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Awipratama</h1>
-<h3 align="center">I'm a passionate Front-End Developer with a strong interest in creating interactive and user-friendly web experiences.  
+<h5 align="left">I'm a passionate Front-End Developer with a strong interest in creating interactive and user-friendly web experiences.  
 I’ve won multiple Web Design and IT quiz competitions, and I’ve worked professionally as a Web Developer at a private company in Bali.  
 Graduated from SMKN 1 Denpasar with a major in Software Engineering, I’m now expanding my skills by learning Back-End Development to become a more complete and versatile web developer.  
 Driven by curiosity and creativity, I’m always eager to explore new technologies and build meaningful digital products.
-</h3>
+</h5>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Awipratama/Portfolio)
 
