@@ -20,6 +20,8 @@ Driven by curiosity and creativity, I’m always eager to explore new technologi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/awipratama05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awipratama05" height="50" width="60" /></a>
+  
+<a href="https://www.facebook.com/awi.pratama.465166" target="blank"><img align="center" src="./facebook-2020-2-1.svg" alt="awipratama05" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
