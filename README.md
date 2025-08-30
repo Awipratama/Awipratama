@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Awipratama</h1>
 <h4 align="justify">I'm a passionate Front-End Developer with a strong interest in creating interactive and user-friendly web experiences. I’ve won multiple Web Design and IT quiz competitions, and I’ve worked professionally as a Web Developer at a private company in Bali. Graduated from SMKN 1 Denpasar with a major in Software Engineering, I’m now expanding my skills by learning Back-End Development to become a more complete and versatile web developer. Driven by curiosity and creativity, I’m always eager to explore new technologies and build meaningful digital products.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awipratama&label=Profile%20views&color=0e75b6&style=flat" alt="awipratama" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awipratama" alt="awipratama" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=awipratama&label=Profile%20views&color=0e75b6&style=flat" alt="awipratama" /> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Awipratama/Portfolio)
 
