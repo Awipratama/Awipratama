@@ -48,12 +48,3 @@ and build meaningful digital products.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a> 
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awipratama&show_icons=true&theme=tokyonight&hide_border=true" alt="awipratama stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awipratama&layout=compact&theme=tokyonight&hide_border=true" alt="awipratama top langs"/>
-</p>
