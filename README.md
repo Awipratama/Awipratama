@@ -12,7 +12,7 @@ and build meaningful digital products.
 </p>
 
 - 🌱 I’m currently learning **Typescript & Flutter**  
-- 💬 Ask me about **React, Vue, & Laravel**  
+- 💬 Ask me about **React, Wordpress, & Laravel**  
 - 📫 How to reach me **awipratama05122006@gmail.com**  
 - ⚡ Fun fact: **I'm Busy looking for Something to do.**  
 
