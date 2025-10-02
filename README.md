@@ -11,7 +11,6 @@ and build meaningful digital products.
   <img src="https://komarev.com/ghpvc/?username=awipratama&label=Profile%20views&color=0e75b6&style=flat" alt="awipratama" />
 </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Awipratama/Portfolio)  
 - 🌱 I’m currently learning **Typescript & Flutter**  
 - 💬 Ask me about **React, Vue, & Laravel**  
 - 📫 How to reach me **awipratama05122006@gmail.com**  
