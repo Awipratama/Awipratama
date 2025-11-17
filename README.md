@@ -11,7 +11,7 @@ and build meaningful digital products.
   <img src="https://komarev.com/ghpvc/?username=awipratama&label=Profile%20views&color=0e75b6&style=flat" alt="awipratama" />
 </p>
 
-- 🌱 I’m currently learning **Typescript & Flutter**  
+- 🌱 I’m currently learning **Typescript & C++**  
 - 💬 Ask me about **React, Wordpress, & Laravel**  
 - 📫 How to reach me **awipratama05122006@gmail.com**  
 - ⚡ Fun fact: **I'm Busy looking for Something to do.**  
