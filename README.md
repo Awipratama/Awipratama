@@ -17,7 +17,7 @@ and build meaningful digital products.
 - ⚡ Fun fact: **I'm Busy looking for Something to do.**  
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="left" width="100%">
 <a href="https://fb.com/awi pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awi pratama" height="50" width="60" /></a>
 <a href="https://instagram.com/awipratama05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awipratama05" height="50" width="60" /></a>
 </p>
