@@ -28,7 +28,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
 </a>
